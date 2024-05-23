@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">LazadaRSN</string>
+    <string name="Home">Home</string>
+    <string name="Cart">Cart</string>
+    <string name="Settings">Settings</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_detail">Details</string>
+    <string name="visit_our_store">Visit our stores!</string>
+    <string name="here_you_can_see_where_our_store_are_located_all_over_the_world">Here you can see where our stores are located all over the world!</string>
+    <string name="check_them_out">Check them out!</string>
+    <string name="welcome_to_lazada">Welcome to LazadaRSN!</string>
+    <string name="back">Back</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+    <string name="cart">Cart</string>
+    <string name="delete_all">Delete all</string>
+    <string name="click_an_item_to_remove_it_from_the_cart">Click an item to remove it from the cart.</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="logout">Logout</string>
+    <string name="account_details">Account details</string>
+    <string name="date_created">Date created</string>
+</resources>

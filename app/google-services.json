@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573051020052",
+    "project_id": "lazadarsn",
+    "storage_bucket": "lazadarsn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573051020052:android:748e692b65abf8ae469801",
+        "android_client_info": {
+          "package_name": "com.example.lazada"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK0W4ZFiQcp4j4kEH3NxiKy3Nm3D9qbSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
